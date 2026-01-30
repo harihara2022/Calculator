@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "addition function"
+echo "addition methods are added"
